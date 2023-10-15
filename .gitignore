@@ -131,6 +131,7 @@
 
 # Ignore intermediate folders
 Intermediate/
+Plugins/
 obj/
 
 # Ignore any saved local files
